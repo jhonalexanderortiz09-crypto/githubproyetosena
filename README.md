@@ -1,2 +1,0 @@
-# githubproyetosena
-GitHub codigo pega 
